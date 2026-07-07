@@ -128,7 +128,7 @@ export const projects = [
     image: "/images/Stockfusion.jpg",
     techStack: ["Node", "MongoDb"],
     demoUrl: "https://example.com",
-    githubUrl: "https://github.com",
+    githubUrl: "https://github.com/Anksyngit/StockFusion_Zi",
   },
 ];
 
