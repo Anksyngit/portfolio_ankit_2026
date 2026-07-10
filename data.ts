@@ -109,8 +109,8 @@ export const projects = [
       "A full-stack e-commerce solution with real-time inventory, payment processing, and admin dashboard.",
     image: "/images/velora.jpg",
     techStack: ["Node.js", "Python","FastAPI", "MongoDB"],
-    demoUrl: "https://example.com",
-    githubUrl: "https://github.com",
+    demoUrl: "https://velora-six-nu.vercel.app/",
+    githubUrl: "https://github.com/Anksyngit/Velora",
   },
   {
     title: "Facial Recognition System",
@@ -118,8 +118,8 @@ export const projects = [
       "Property listing platform with virtual tours, mortgage calculator, and agent booking system.",
     image: "/images/face.jpg",
     techStack: ["Python", "OpenCV", "Haarcasacade", "Lbph Algorithm"],
-    demoUrl: "https://example.com",
-    githubUrl: "https://github.com",
+    demoUrl: "",
+    githubUrl: "https://github.com/Anksyngit/Face-Recognition-Attendance-System",
   },
   {
     title: "StockFusion",
@@ -127,7 +127,7 @@ export const projects = [
       "Educational platform with video streaming, quizzes, progress tracking, and certificates.",
     image: "/images/Stockfusion.jpg",
     techStack: ["Node", "MongoDb"],
-    demoUrl: "https://example.com",
+    demoUrl: "https://stock-fusion-zi-peach.vercel.app/",
     githubUrl: "https://github.com/Anksyngit/StockFusion_Zi",
   },
 ];
